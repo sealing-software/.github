@@ -5,3 +5,4 @@
 </p>
 
 # Software Extractor and Audit Logger
+SEAL provides the capability of digital fingerprinting at a customizable system level versus the traditional bit by bit hashing methods. 
